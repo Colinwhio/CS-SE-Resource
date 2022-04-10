@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T04:18:57.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" version="17.4.2" etag="nOUH3q-Ay5BXyDi7Cpas" type="github"><diagram id="nbyclG6E-qjzvVvMyUNK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-10T06:38:50.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="g-oNtbhqANrV_B15vCg-" version="17.4.2" type="github">
+  <diagram id="nbyclG6E-qjzvVvMyUNK" name="第 1 页">
+    <mxGraphModel dx="655" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-1" value="核酸检测系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-6" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;北吉北吉&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-8" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt ; font-size: 12pt ; background: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;楷体&quot;&gt;采样&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;人员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
