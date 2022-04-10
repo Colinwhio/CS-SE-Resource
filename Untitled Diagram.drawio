@@ -1,23 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T06:38:50.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="g-oNtbhqANrV_B15vCg-" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T07:01:05.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="b1_N9v-Wy_hWz4_SCsb2" version="17.4.2" type="github">
   <diagram id="nbyclG6E-qjzvVvMyUNK" name="第 1 页">
-    <mxGraphModel dx="655" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EpOU2TgI9mNHZIcZFtCK-1" value="核酸检测系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-1" value="&lt;p&gt;核酸检测系统&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="140" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpOU2TgI9mNHZIcZFtCK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-6" target="EpOU2TgI9mNHZIcZFtCK-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;被检人员&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpOU2TgI9mNHZIcZFtCK-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;北吉北吉&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="EpOU2TgI9mNHZIcZFtCK-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt ; background: rgb(255 , 255 , 255)&quot;&gt;采样&lt;/span&gt;&lt;span&gt;人员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpOU2TgI9mNHZIcZFtCK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-8" target="EpOU2TgI9mNHZIcZFtCK-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zK1TTpa0LtILLQxoHdun-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;管理员&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpOU2TgI9mNHZIcZFtCK-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt ; font-size: 12pt ; background: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;楷体&quot;&gt;采样&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;人员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="zK1TTpa0LtILLQxoHdun-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-6" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="230" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;登记采样信息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-7">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="2" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-1" target="EpOU2TgI9mNHZIcZFtCK-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="165" as="sourcePoint" />
+            <mxPoint x="389.9999999999999" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;*查询核酸结果&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-20">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="-2" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt ; background: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;检测人员&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
