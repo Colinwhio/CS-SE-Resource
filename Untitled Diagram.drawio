@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T07:01:05.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="b1_N9v-Wy_hWz4_SCsb2" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T07:15:57.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="bSUBgunLFgRUZI9mUo3O" version="17.4.2" type="github">
   <diagram id="nbyclG6E-qjzvVvMyUNK" name="第 1 页">
-    <mxGraphModel dx="603" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="140" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zK1TTpa0LtILLQxoHdun-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;管理员&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zK1TTpa0LtILLQxoHdun-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-6" target="EpOU2TgI9mNHZIcZFtCK-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,7 +22,7 @@
             <mxPoint x="450" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zK1TTpa0LtILLQxoHdun-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;登记采样信息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-7">
+        <mxCell id="zK1TTpa0LtILLQxoHdun-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;录入登记信息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-7">
           <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
             <mxPoint x="2" y="-15" as="offset" />
           </mxGeometry>
@@ -40,6 +40,130 @@
         </mxCell>
         <mxCell id="zK1TTpa0LtILLQxoHdun-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt ; background: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;检测人员&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-24" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-8" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="240.00000000000006" as="sourcePoint" />
+            <mxPoint x="399.9999999999999" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;录入采样记录&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=-30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-24">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="-21" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-26" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="295.14" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-27" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;修改采样记录&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=-30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-26">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="-21" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-28" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-1" target="EpOU2TgI9mNHZIcZFtCK-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.9999999999999" y="195" as="sourcePoint" />
+            <mxPoint x="270" y="115.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-29" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;*查询采样记录&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=-30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-28">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="30" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-31" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.341;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-6" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="80.00000000000006" as="sourcePoint" />
+            <mxPoint x="459.9999999999999" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;取消登记&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-31">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="2" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-34" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zK1TTpa0LtILLQxoHdun-22" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="275" as="sourcePoint" />
+            <mxPoint x="389.9999999999999" y="209.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;录入检测&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px ; color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;记录&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=-35;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-34">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="4" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-36" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="zK1TTpa0LtILLQxoHdun-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="305.14" as="sourcePoint" />
+            <mxPoint x="480" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;修改检测记录&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=-35;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-36">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="15" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-39" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;entryX=1.008;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zK1TTpa0LtILLQxoHdun-4" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="240" as="sourcePoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-40" value="&lt;span style=&quot;font-size: 8px ; color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;维护采样点&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=25;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-39">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="12" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-42" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpOU2TgI9mNHZIcZFtCK-1" target="zK1TTpa0LtILLQxoHdun-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="250" as="sourcePoint" />
+            <mxPoint x="469.9999999999999" y="171.53999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-43" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;*查询统计信息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=25;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-42">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="-4" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zK1TTpa0LtILLQxoHdun-4" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="275" as="sourcePoint" />
+            <mxPoint x="500" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-45" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 8px&quot;&gt;维护&lt;/span&gt;&lt;span style=&quot;font-size: 8px ; color: rgb(51 , 51 , 51) ; letter-spacing: 0pt&quot;&gt;系统&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=30;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-44">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="18" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-46" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zK1TTpa0LtILLQxoHdun-4" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="310" as="sourcePoint" />
+            <mxPoint x="474.04999999999995" y="238.9000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-47" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 8px&quot;&gt;管理角色&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=1;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-46">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="-6" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-48" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;exitX=-0.028;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.949;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zK1TTpa0LtILLQxoHdun-4" target="EpOU2TgI9mNHZIcZFtCK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK1TTpa0LtILLQxoHdun-49" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 8px&quot;&gt;删除采样和检测记录&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;rotation=45;" vertex="1" connectable="0" parent="zK1TTpa0LtILLQxoHdun-48">
+          <mxGeometry x="0.1602" y="-3" relative="1" as="geometry">
+            <mxPoint x="13" y="5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
